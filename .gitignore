@@ -1,0 +1,13 @@
+/combined_data.csv
+/data.csv
+/data.parquet
+/distribution.csv
+/distribution.parquet
+/prompts.csv
+/prompts.parquet
+/sample_submission.csv
+/test_essays.csv
+/train_essays.csv
+/train_prompts.csv
+/train_student_essays.csv
+/train_v2_drcat_02.csv
